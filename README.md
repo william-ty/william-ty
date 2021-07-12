@@ -6,7 +6,7 @@
 - 🔭 Portfolio : https://william-ty.github.io./
 - 👯 I’m looking to collaborate on any fun and interesting projects
 - 📫 Reach me: william.trahay@gmail.com
-- ⚡ Fun fact: I'm producing 
+- ⚡ Fun fact: I produce music in my free time
 
 --- 
 
