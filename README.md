@@ -4,7 +4,7 @@
 <h2>Junior Web Developer</h2>
 
 - 🔭 Portfolio : https://william-ty.github.io./
-- 👯 I want to collaborate on fun and interesting projects !
+- 👯 I'd love to collaborate on projects with you !
 - 📫 Reach me: william.trahay@gmail.com
 - ⚡ Fun fact: I produce music in my free time
 
