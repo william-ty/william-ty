@@ -1,7 +1,7 @@
 
 ---
 
-<h2>Junior Web Developer</h2>
+<h2>IT Developer</h2>
 
 - 🔭 Portfolio : https://william-ty.github.io./
 - 👯 I'd love to collaborate on projects with you !
