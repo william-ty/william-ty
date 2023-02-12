@@ -1,12 +1,12 @@
 
 ---
 
-<h2>IT Developer</h2>
+<h2>Software Developer</h2>
 
 - 🔭 Portfolio : https://william-ty.github.io./
-- 👯 I'd love to collaborate on projects with you !
+- 👯 I'd love to collaborate on projects with you! Please don't hesitate to contact me for requests.
 - 📫 Reach me: william.trahay@gmail.com
-- ⚡ Fun fact: I produce music in my free time
+- ⚡ Other things I do: I produce music in my free time 
 
 --- 
 
